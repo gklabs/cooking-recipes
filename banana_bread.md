@@ -18,10 +18,10 @@ Equipment: Baking oven required.
 ## Directions
 1. Preheat oven to 325 F. While the oven is on preheat proceed as below.
 1. On a large bowl add the following and mix well
-  1. mashed bananas
-  1. Vegetable oil
-  1. honey
-  1. eggs
+    1. mashed bananas
+    1. Vegetable oil
+    1. Honey
+    1. Eggs
 1. Once mixed well, add the wheat flour, salt, vannila essence.
 1. Pour the baking soda solution into the bowl and mix well.
 1. Mix 1-2 cups of assorted dry fruits and fold the mixture well.
