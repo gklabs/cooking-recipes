@@ -1,4 +1,4 @@
-# Salna
+# Salan
 Cooking Simplicity: 6/10
 Ingredient availability: 6/10 - sesame seeds
 Equipment: Mixer grinder 
